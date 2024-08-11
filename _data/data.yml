@@ -51,7 +51,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software / Data Engineer with over 15 years of experience in designing, building, and maintaining robust data infrastructures. Proven expertise in data modeling, ETL development, and data integration. Strong leadership skills with a track record of mentoring teams to deliver high-quality data solutions. Proficient in Python, JavaScript, SQL, and cloud platforms including AWS and Azure. Committed to continuous improvement and innovation in data engineering practices.
+      Experienced Software / Data Engineer with over 15 years of experience in 
+      designing, building, and maintaining robust data infrastructures. Proven 
+      expertise in data modeling, ETL development, and data integration. Strong 
+      leadership skills with a track record of mentoring teams to deliver 
+      high-quality data solutions. Proficient in Python, JavaScript, SQL, and 
+      cloud platforms including AWS and Azure. Committed to continuous 
+      improvement and innovation in data engineering practices.
 
 education:
     title: Education
@@ -78,7 +84,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-    - degree: Certificate in Project Management
+      - degree: Certificate in Project Management
         university: Portland State University
         time: 1993
         details: |
@@ -89,17 +95,17 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-    - degree: AAS in Opticianary
-      university: Thomas Nelson COmmunity College
-      time: 2007
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      - degree: AAS in Opticianary
+        university: Thomas Nelson COmmunity College
+        time: 2007
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
