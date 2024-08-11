@@ -78,28 +78,29 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-        - degree: Certificate in Project Management
-          university: Portland State University
-          time: 1993
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
-        - degree: AAS in Opticianary
-          university: Thomas Nelson COmmunity College
-          time: 2007
-          details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-              - Bullet point
-              - Bullet point
+    - degree: Certificate in Project Management
+        university: Portland State University
+        time: 1993
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+    - degree: AAS in Opticianary
+      university: Thomas Nelson COmmunity College
+      time: 2007
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
 experiences:
     title: Experiences
     info:
