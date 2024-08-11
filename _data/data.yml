@@ -108,34 +108,34 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
-    info:
-      - role: Senior Data Engineer
-        time: 2021 - Present
-        company: Capital One, Richmond, VA
-        details: |
-          Senior Data Engineer focused on Marketing Technology providing data 
-          pipelines to support customer journeys, engagement, and retention. 
-          Significant projects include:
-            - Lead engineer migrating customer load process in Salesforce Marketing Cloud (SFMC) 
+  title: Experiences
+  info:
+    - role: Senior Data Engineer
+      time: 2021 - Present
+      company: Capital One, Richmond, VA
+      details: |
+        Senior Data Engineer focused on Marketing Technology providing data 
+        pipelines to support customer journeys, engagement, and retention. 
+        Significant projects include:
+          - Lead engineer migrating customer load process in Salesforce Marketing Cloud (SFMC) 
             from a daily full load to delta load reducing the daily load time by over 8 hours.
-            - Lead developer for an Enterprise Custom Activity in SFMC which allowed multiple 
+          - Lead developer for an Enterprise Custom Activity in SFMC which allowed multiple 
             lines of business to market customers on both the Capital One mobile app and 
             web customer application in near real time. Technologies include
             JavaScript, CSS, HTML, REST APIs, and AWS (S3, Route 53, Cloudfront). 
             Required cross-team collaboration to communicate and coordinate development, 
             testing and deployment.
-            - Led and fostered a team of software engineers providing mentorship 
+          - Led and fostered a team of software engineers providing mentorship 
             and technical guidance to more junior engineers.
-            - Championed the transfer of ownership and further development of 
-            data pipelines to load engagement data to the enterprise 
-            Delta Lake and Snowflake environments for use by Marketers and Data Analysts. 
-            Technology stack on AWS included: Python, PySpark, EMR, CloudWatch, SNS, S3, 
-            and DynamoDB as well as APIs using Lambda functions, Jenkins, and GitHub.
-            - Led Agile ceremonies such as stand ups, refinement, planning, and retros 
+          - Championed the transfer of ownership and further development of 
+             data pipelines to load engagement data to the enterprise 
+             Delta Lake and Snowflake environments for use by Marketers and Data Analysts. 
+             Technology stack on AWS included: Python, PySpark, EMR, CloudWatch, SNS, S3, 
+             and DynamoDB as well as APIs using Lambda functions, Jenkins, and GitHub.
+           - Led Agile ceremonies such as stand ups, refinement, planning, and retros 
             to manage sprints using Jira stories.
-            - Management and monitoring of ETL data pipelines maintaining data quality, 
-            data governance, and compliance to enterprise and regulatory standards.
+           - Management and monitoring of ETL data pipelines maintaining data quality, 
+             data governance, and compliance to enterprise and regulatory standards.
       - role: Software Developer II
         time: 2015 - 2021
         company: CarMax, Richmond, VA
