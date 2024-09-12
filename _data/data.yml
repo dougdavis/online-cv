@@ -51,13 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software / Data Engineer with over 15 years of experience in 
-      designing, building, and maintaining robust data infrastructures. Proven 
-      expertise in data modeling, ETL development, and data integration. Strong 
-      leadership skills with a track record of mentoring teams to deliver 
-      high-quality data solutions. Proficient in Python, JavaScript, SQL, and 
-      cloud platforms including AWS and Azure. Committed to continuous 
-      improvement and innovation in data engineering practices.
+      xperienced Data Engineer with over 20 years of designing and optimizing large-scale data infrastructures. Adept at building scalable data pipelines for both batch and real-time data processing. Proven track record in delivering high-quality, reliable, and distributed data processing solutions. Proficient in Python, SQL, Spark, and AWS, with expertise in handling large datasets and driving operational excellence in fast-paced environments. Passionate about improving data quality, streaming data systems, and partnering with cross-functional teams to power advanced analytics and product innovations.
 
 education:
     title: Education
@@ -114,70 +108,27 @@ experiences:
         time: 2021 - Present
         company: Capital One, Richmond, VA
         details: |
-          Senior Data Engineer focused on Marketing Technology providing data 
-          pipelines to support customer journeys, engagement, and retention. 
-          Significant projects include:
-            - Lead engineer migrating customer load process in Salesforce Marketing Cloud (SFMC) 
-              from a daily full load to delta load reducing the daily load time by over 8 hours.
-            - Lead developer for an Enterprise Custom Activity in SFMC which allowed multiple 
-              lines of business to market customers on both the Capital One mobile app and 
-              web customer application in near real time. Technologies include
-              JavaScript, CSS, HTML, REST APIs, and AWS (S3, Route 53, Cloudfront). 
-              Required cross-team collaboration to communicate and coordinate development, 
-              testing and deployment.
-            - Led and fostered a team of software engineers providing mentorship 
-              and technical guidance to more junior engineers.
-            - Championed the transfer of ownership and further development of 
-              data pipelines to load engagement data to the enterprise 
-              Delta Lake and Snowflake environments for use by Marketers and Data Analysts. 
-              Technology stack on AWS included: Python, PySpark, EMR, CloudWatch, SNS, S3, 
-              and DynamoDB as well as APIs using Lambda functions, Jenkins, and GitHub.
-            - Led Agile ceremonies such as stand ups, refinement, planning, and retros 
-              to manage sprints using Jira stories.
-            - Management and monitoring of ETL data pipelines maintaining data quality, 
-              data governance, and compliance to enterprise and regulatory standards.
+          Leading the development of scalable data pipelines to support real-time analytics and high-volume customer data processing.
+          - Engineered scalable real-time data pipelines using AWS EMR, S3, DynamoDB, and Lambda, enabling near real-time customer engagement across mobile and web platforms.
+          - Optimized Spark-based data workflows to process large datasets, improving performance by 25% and reducing ETL pipeline latency by hours.
+          - Drove the integration of customer data into Delta Lake and Snowflake, creating a robust data model for use in enterprise-wide analytics.
+          - Collaborated with cross-functional teams to build custom APIs and leverage REST for efficient data delivery, enhancing marketing effectiveness.
+          - Owned and maintained CI/CD pipelines and cloud-based infrastructure, ensuring seamless deployment and monitoring of production systems.
       - role: Software Developer II
         time: 2015 - 2021
         company: CarMax, Richmond, VA
         details: |
-          Developer on an Agile Product team focused on digital and marketing technologies. 
-          Notable accomplishments include:
-            - Developed Azure data pipelines using Azure Data Factories, Azure Functions, 
-              Azure Storage, CosmosDB, and Azure SQL. These data pipelines supported the 
-              acquisition process by ensuring the latest car inventories were available to 
-              third parties such as Google, Facebook, Capital One, AutoTrader, and Edmunds 
-              as well as internal processes such as Salesforce Marketing Cloud.
-            - Developed CI / CD Pipelines utilizing Azure DevOps and Azure Resource Manager (ARM) 
-              templates to allow for efficient deployment to Dev/ QA / Production environments
-            - Developed a process using PowerShell and GlobalScape EFT to deliver stock 
-              auto images from EVOX and deliver to an API endpoint for Aprimo Digital Asset Management. 
-              This ensured timely delivery of the most up to date images and ensured 
-              end users were compliant with all usage rights.
-            - Implementation of several ETL processes using Informatica workflows 
-              to support Customer Data and Marketing Data Environment
-            - Developed database processes on Microsoft SQL Server and Teradata 
-              using SQL queries and stored procedures
-            - Lead Developer for the design and development of a Customer 
-              Data Integration taking customer data from disparate sources and 
-              loading to a single system. This data is a primary source for the Customer Data Mart. 
-              The goal of this project was supporting a better understanding of our customer 
-              population with the goal of gaining a 360° view of all activities and interactions.
-            - Mentored junior team members on engineering best practices and career growth.
+          Developed cloud-based data infrastructure to support marketing analytics and data integration across multiple platforms.
+          - Built and maintained Azure-based data pipelines using Azure Data Factories, CosmosDB, and Azure Functions, supporting real-time data synchronization with third-party platforms.
+          - Designed and deployed CI/CD pipelines using Azure DevOps, significantly reducing deployment time and enhancing the reliability of production systems.
+          - Led the development of customer data integration solutions, unifying disparate data sources to enable advanced customer insights and a 360° customer view.
       - role: Programmer Analyst
         time: 2008 - 2015
         company: CarMax, Richmond, VA
         details: |
-          Analyzed and designed solutions in support of CarMax Auto Finance. Primary 
-          focus on enhancement and support of loan origination systems through all 
-          phases of the software development life cycle.
-            - Successful implementation of new loan origination system
-            - Designed and implemented ETL processes using SQL Server Integration Services
-            - Coded Python programs in support of external vendor interfaces
-            - Managed migration of physical servers to virtual server infrastructure
-            - Automated and refined system processes for system maintenance and deployment
-            - Management of third party vendors both through support relationships 
-              and as part of a coding project to add third tier processing 
-              to the loan origination system.
+          Focused on enhancing loan origination systems and improving ETL processes for internal data integrations.
+          - Designed and developed ETL pipelines in SQL Server to streamline customer data processing and reporting.
+          - Automated system processes using Python and Linux, significantly improving system efficiency and reducing manual intervention.
       - role: UNIX Programmer Analyst
         time: 2005 - 2008
         company: CarMax, Richmond, VA
@@ -212,22 +163,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 skills:
     title: Skills &amp; Proficiency
